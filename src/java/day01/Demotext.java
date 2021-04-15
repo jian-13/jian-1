@@ -9,5 +9,6 @@ public class Demotext {
         System.out.println("这是idea的第一个项目");
         System.out.println("这是idea的第一个项目");
         System.out.println("这是idea的第一个项目");
+        System.out.println("这是idea的第一个项目");
     }
 }
